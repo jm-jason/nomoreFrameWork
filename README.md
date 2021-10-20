@@ -1,0 +1,2 @@
+# nomoreFrameWork
+NomreFrameWorks 针对面向对象的持久层解决方案，支持自动的分表按时间拆分表
